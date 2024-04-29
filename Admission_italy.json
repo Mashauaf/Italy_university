@@ -1,0 +1,69 @@
+{
+  "universities": [
+    {
+      "name": "Sapienza University of Rome",
+      "deadline": "28-Jun-24",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Padua",
+      "deadline": "2 June – 2 August 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Naples Federico II",
+      "deadline": "29-Nov-24",
+      "language_requirement": "B2 level Italian language proficiency"
+    },
+    {
+      "name": "University of Bologna",
+      "deadline": "October 31st, 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Florence",
+      "deadline": "18 March to 17 May 2024.",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Turin",
+      "deadline": "24th July to 18th October 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Milan",
+      "deadline": "30-Apr-24",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Pisa",
+      "deadline": "30th June 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Trento",
+      "deadline": "April 15th 2024 to May 31st, 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Pavia",
+      "deadline": "31st August 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Milano-Bicocca",
+      "deadline": "June 28, 2024 to July 23, 2024",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Rome",
+      "deadline": "4-Nov-24",
+      "ielts_required": true
+    },
+    {
+      "name": "University of Genoa",
+      "deadline": "29th March 2024.",
+      "ielts_required": true
+    }
+  ]
+}

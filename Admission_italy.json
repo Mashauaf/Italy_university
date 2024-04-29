@@ -1,5 +1,4 @@
-{
-  "universities": [
+[
     {
       "id": 1,
       "name": "Sapienza University of Rome",
@@ -77,6 +76,5 @@
       "name": "University of Genoa",
       "deadline": "29th March 2024.",
       "ielts_required": true
-    }
-  ]
-}
+    }]
+  

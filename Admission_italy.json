@@ -102,5 +102,1477 @@
     "ielts_required": "Needed",
     "language_requirement": "NONE",
     "url": "https://unige.it/en"
+  },
+  {
+    "id": 14,
+    "name": "University of Milan",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/en"
+  },
+  {
+    "id": 15,
+    "name": "University of Rome Tre",
+    "deadline": "1st June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 16,
+    "name": "University of Verona",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.univr.it/"
+  },
+  {
+    "id": 17,
+    "name": "University of Catania",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 18,
+    "name": "University of Bergamo",
+    "deadline": "15th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibg.it/"
+  },
+  {
+    "id": 19,
+    "name": "University of Naples L'Orientale",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unior.it/"
+  },
+  {
+    "id": 20,
+    "name": "University of Calabria",
+    "deadline": "31st May 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unical.it/"
+  },
+  {
+    "id": 21,
+    "name": "University of Sassari",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniss.it/"
+  },
+  {
+    "id": 22,
+    "name": "University of Macerata",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimc.it/"
+  },
+  {
+    "id": 23,
+    "name": "University of Salento",
+    "deadline": "15th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisalento.it/"
+  },
+  {
+    "id": 24,
+    "name": "University of Trieste",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.units.it/"
+  },
+  {
+    "id": 25,
+    "name": "University of Parma",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipr.it/"
+  },
+  {
+    "id": 26,
+    "name": "University of Padua",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipd.it/"
+  },
+  {
+    "id": 27,
+    "name": "University of Turin",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unito.it/"
+  },
+  {
+    "id": 28,
+    "name": "University of Milan-Bicocca",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 29,
+    "name": "University of Florence",
+    "deadline": "15th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 30,
+    "name": "University of Genoa",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://unige.it/"
+  },
+  {
+    "id": 31,
+    "name": "University of Catania",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 32,
+    "name": "University of Verona",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.univr.it/"
+  },
+  {
+    "id": 33,
+    "name": "University of Bergamo",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibg.it/"
+  },
+  {
+    "id": 34,
+    "name": "University of Macerata",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimc.it/"
+  },
+  {
+    "id": 35,
+    "name": "University of Salento",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisalento.it/"
+  },
+  {
+    "id": 36,
+    "name": "University of Sassari",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniss.it/"
+  },
+  {
+    "id": 37,
+    "name": "University of Parma",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipr.it/"
+  },
+  {
+    "id": 38,
+    "name": "University of Naples Federico II",
+    "deadline": "30th June 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 39,
+    "name": "University of Pisa",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipi.it/"
+  },
+  {
+    "id": 40,
+    "name": "University of Bologna",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/en"
+  },
+  {
+    "id": 41,
+    "name": "University of Florence",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 42,
+    "name": "University of Milan",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/en"
+  },
+  {
+    "id": 43,
+    "name": "University of Turin",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unito.it/"
+  },
+  {
+    "id": 44,
+    "name": "University of Trento",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unitn.it/"
+  },
+  {
+    "id": 45,
+    "name": "University of Pavia",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://web.unipv.it/"
+  },
+  {
+    "id": 46,
+    "name": "University of Milano-Bicocca",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 47,
+    "name": "University of Rome Tre",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 48,
+    "name": "University of Verona",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.univr.it/"
+  },
+  {
+    "id": 49,
+    "name": "University of Salento",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisalento.it/"
+  },
+  {
+    "id": 50,
+    "name": "University of Catania",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 51,
+    "name": "University of Bergamo",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibg.it/"
+  },
+  {
+    "id": 52,
+    "name": "University of Macerata",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimc.it/"
+  },
+  {
+    "id": 53,
+    "name": "University of Sassari",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniss.it/"
+  },
+  {
+    "id": 54,
+    "name": "University of Parma",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipr.it/"
+  },
+  {
+    "id": 55,
+    "name": "University of Naples Federico II",
+    "deadline": "31st July 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 56,
+    "name": "University of Pavia",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://web.unipv.it/"
+  },
+  {
+    "id": 57,
+    "name": "University of Milan",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/en"
+  },
+  {
+    "id": 58,
+    "name": "University of Turin",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unito.it/"
+  },
+  {
+    "id": 59,
+    "name": "University of Trento",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unitn.it/"
+  },
+  {
+    "id": 60,
+    "name": "University of Rome Tre",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 61,
+    "name": "University of Florence",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 62,
+    "name": "University of Genoa",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://unige.it/"
+  },
+  {
+    "id": 63,
+    "name": "University of Milan-Bicocca",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 64,
+    "name": "University of Catania",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 65,
+    "name": "University of Padua",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipd.it/en/"
+  },
+  {
+    "id": 66,
+    "name": "University of Verona",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.univr.it/"
+  },
+  {
+    "id": 67,
+    "name": "University of Bergamo",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibg.it/"
+  },
+  {
+    "id": 68,
+    "name": "University of Sassari",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniss.it/"
+  },
+  {
+    "id": 69,
+    "name": "University of Salento",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisalento.it/"
+  },
+  {
+    "id": 70,
+    "name": "University of Macerata",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimc.it/"
+  },
+  {
+    "id": 71,
+    "name": "University of Naples L'Orientale",
+    "deadline": "15th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unior.it/"
+  },
+  {
+    "id": 72,
+    "name": "University of Calabria",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unical.it/"
+  },
+  {
+    "id": 73,
+    "name": "University of Pavia",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://web.unipv.it/"
+  },
+  {
+    "id": 74,
+    "name": "University of Rome",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma1.it/en/"
+  },
+  {
+    "id": 75,
+    "name": "University of Florence",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 76,
+    "name": "University of Milan",
+    "deadline": "15th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/en"
+  },
+  {
+    "id": 77,
+    "name": "University of Turin",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unito.it/"
+  },
+  {
+    "id": 78,
+    "name": "University of Trento",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unitn.it/"
+  },
+  {
+    "id": 79,
+    "name": "University of Rome Tre",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 80,
+    "name": "University of Genoa",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://unige.it/"
+  },
+  {
+    "id": 81,
+    "name": "University of Pisa",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipi.it/"
+  },
+  {
+    "id": 82,
+    "name": "University of Macerata",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimc.it/"
+  },
+  {
+    "id": 83,
+    "name": "University of Sassari",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniss.it/"
+  },
+  {
+    "id": 84,
+    "name": "University of Salento",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisalento.it/"
+  },
+  {
+    "id": 85,
+    "name": "University of Bergamo",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibg.it/"
+  },
+  {
+    "id": 86,
+    "name": "University of Calabria",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unical.it/"
+  },
+  {
+    "id": 87,
+    "name": "University of Rome Tre",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 88,
+    "name": "University of Turin",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unito.it/"
+  },
+  {
+    "id": 89,
+    "name": "University of Milan-Bicocca",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 90,
+    "name": "University of Florence",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 91,
+    "name": "University of Verona",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.univr.it/"
+  },
+  {
+    "id": 92,
+    "name": "University of Genoa",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://unige.it/"
+  },
+  {
+    "id": 93,
+    "name": "University of Naples Federico II",
+    "deadline": "1st July 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 94,
+    "name": "University of Pavia",
+    "deadline": "15th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://web.unipv.it/"
+  },
+  {
+    "id": 95,
+    "name": "University of Milan",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/en"
+  },
+  {
+    "id": 96,
+    "name": "University of Turin",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unito.it/"
+  },
+  {
+    "id": 97,
+    "name": "University of Trento",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unitn.it/"
+  },
+  {
+    "id": 98,
+    "name": "University of Verona",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.univr.it/"
+  },
+  {
+    "id": 99,
+    "name": "University of Naples Federico II",
+    "deadline": "1st August 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 100,
+    "name": "University of Milan-Bicocca",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 101,
+    "name": "University of Rome La Sapienza",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma1.it/en/"
+  },
+  {
+    "id": 102,
+    "name": "University of Trieste",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.units.it/"
+  },
+  {
+    "id": 103,
+    "name": "University of Catania",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 104,
+    "name": "University of Messina",
+    "deadline": "30th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unime.it/"
+  },
+  {
+    "id": 105,
+    "name": "University of Siena",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisi.it/"
+  },
+  {
+    "id": 106,
+    "name": "University of Bari Aldo Moro",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniba.it/"
+  },
+  {
+    "id": 107,
+    "name": "University of Lecce",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisalento.it/"
+  },
+  {
+    "id": 108,
+    "name": "University of Perugia",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipg.it/"
+  },
+  {
+    "id": 109,
+    "name": "University of Palermo",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipa.it/"
+  },
+  {
+    "id": 110,
+    "name": "University of Bologna",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/"
+  },
+  {
+    "id": 111,
+    "name": "University of Ferrara",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unife.it/"
+  },
+  {
+    "id": 112,
+    "name": "University of Udine",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniud.it/"
+  },
+  {
+    "id": 113,
+    "name": "University of Modena and Reggio Emilia",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimore.it/"
+  },
+  {
+    "id": 114,
+    "name": "University of Parma",
+    "deadline": "30th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipr.it/"
+  },
+  {
+    "id": 115,
+    "name": "University of Rome Tor Vergata",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma2.it/"
+  },
+  {
+    "id": 116,
+    "name": "University of Florence",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 117,
+    "name": "University of Rome Tre",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 118,
+    "name": "University of Milan",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/"
+  },
+  {
+    "id": 119,
+    "name": "University of Trieste",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.units.it/"
+  },
+  {
+    "id": 120,
+    "name": "University of Naples L'Orientale",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unior.it/"
+  },
+  {
+    "id": 121,
+    "name": "University of Catania",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 122,
+    "name": "University of Messina",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unime.it/"
+  },
+  {
+    "id": 123,
+    "name": "University of Bari Aldo Moro",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniba.it/"
+  },
+  {
+    "id": 124,
+    "name": "University of Parma",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipr.it/"
+  },
+  {
+    "id": 125,
+    "name": "University of Siena",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisi.it/"
+  },
+  {
+    "id": 126,
+    "name": "University of Perugia",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipg.it/"
+  },
+  {
+    "id": 127,
+    "name": "University of Udine",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniud.it/"
+  },
+  {
+    "id": 128,
+    "name": "University of Ferrara",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unife.it/"
+  },
+  {
+    "id": 129,
+    "name": "University of Modena and Reggio Emilia",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimore.it/"
+  },
+  {
+    "id": 130,
+    "name": "University of Florence",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 131,
+    "name": "University of Rome La Sapienza",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma1.it/en/"
+  },
+  {
+    "id": 132,
+    "name": "University of Milan-Bicocca",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 133,
+    "name": "University of Trieste",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.units.it/"
+  },
+  {
+    "id": 134,
+    "name": "University of Naples Federico II",
+    "deadline": "15th July 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 135,
+    "name": "University of Bari Aldo Moro",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniba.it/"
+  },
+  {
+    "id": 136,
+    "name": "University of Bologna",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/"
+  },
+  {
+    "id": 137,
+    "name": "University of Catania",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 138,
+    "name": "University of Ferrara",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unife.it/"
+  },
+  {
+    "id": 139,
+    "name": "University of Florence",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 140,
+    "name": "University of Modena and Reggio Emilia",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimore.it/"
+  },
+  {
+    "id": 141,
+    "name": "University of Palermo",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipa.it/"
+  },
+  {
+    "id": 142,
+    "name": "University of Parma",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipr.it/"
+  },
+  {
+    "id": 143,
+    "name": "University of Perugia",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipg.it/"
+  },
+  {
+    "id": 144,
+    "name": "University of Rome Tre",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 145,
+    "name": "University of Siena",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisi.it/"
+  },
+  {
+    "id": 146,
+    "name": "University of Udine",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniud.it/"
+  },
+  {
+    "id": 147,
+    "name": "University of Milan-Bicocca",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 148,
+    "name": "University of Bologna",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/"
+  },
+  {
+    "id": 149,
+    "name": "University of Naples L'Orientale",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unior.it/"
+  },
+  {
+    "id": 150,
+    "name": "University of Modena and Reggio Emilia",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimore.it/"
+  },
+  {
+    "id": 151,
+    "name": "University of Messina",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unime.it/"
+  },
+  {
+    "id": 152,
+    "name": "University of Perugia",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipg.it/"
+  },
+  {
+    "id": 153,
+    "name": "University of Catania",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 154,
+    "name": "University of Milan",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/"
+  },
+  {
+    "id": 155,
+    "name": "University of Rome La Sapienza",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma1.it/en/"
+  },
+  {
+    "id": 156,
+    "name": "University of Naples Federico II",
+    "deadline": "30th June 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 157,
+    "name": "University of Turin",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://en.unito.it/"
+  },
+  {
+    "id": 158,
+    "name": "University of Siena",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisi.it/"
+  },
+  {
+    "id": 159,
+    "name": "University of Pisa",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipi.it/"
+  },
+  {
+    "id": 160,
+    "name": "University of Bologna",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/"
+  },
+  {
+    "id": 161,
+    "name": "University of Padua",
+    "deadline": "30th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipd.it/en/"
+  },
+  {
+    "id": 162,
+    "name": "University of Milan-Bicocca",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 163,
+    "name": "University of Trieste",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.units.it/"
+  },
+  {
+    "id": 164,
+    "name": "University of Messina",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unime.it/"
+  },
+  {
+    "id": 165,
+    "name": "University of Bari Aldo Moro",
+    "deadline": "30th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniba.it/"
+  },
+  {
+    "id": 166,
+    "name": "University of Florence",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 167,
+    "name": "University of Naples Federico II",
+    "deadline": "1st July 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 168,
+    "name": "University of Rome Tre",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 169,
+    "name": "University of Rome La Sapienza",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma1.it/en/"
+  },
+  {
+    "id": 170,
+    "name": "University of Modena and Reggio Emilia",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimore.it/"
+  },
+  {
+    "id": 171,
+    "name": "University of Palermo",
+    "deadline": "31st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipa.it/"
+  },
+  {
+    "id": 172,
+    "name": "University of Ferrara",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unife.it/"
+  },
+  {
+    "id": 173,
+    "name": "University of Udine",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniud.it/"
+  },
+  {
+    "id": 174,
+    "name": "University of Rome Tor Vergata",
+    "deadline": "30th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma2.it/"
+  },
+  {
+    "id": 175,
+    "name": "University of Pisa",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipi.it/"
+  },
+  {
+    "id": 176,
+    "name": "University of Padua",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipd.it/en/"
+  },
+  {
+    "id": 177,
+    "name": "University of Siena",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisi.it/"
+  },
+  {
+    "id": 178,
+    "name": "University of Turin",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://en.unito.it/"
+  },
+  {
+    "id": 179,
+    "name": "University of Naples L'Orientale",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unior.it/"
+  },
+  {
+    "id": 180,
+    "name": "University of Bologna",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/"
+  },
+  {
+    "id": 181,
+    "name": "University of Milan",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimi.it/"
+  },
+  {
+    "id": 182,
+    "name": "University of Trieste",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.units.it/"
+  },
+  {
+    "id": 183,
+    "name": "University of Catania",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unict.it/"
+  },
+  {
+    "id": 184,
+    "name": "University of Messina",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unime.it/"
+  },
+  {
+    "id": 185,
+    "name": "University of Bari Aldo Moro",
+    "deadline": "30th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniba.it/"
+  },
+  {
+    "id": 186,
+    "name": "University of Modena and Reggio Emilia",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimore.it/"
+  },
+  {
+    "id": 187,
+    "name": "University of Ferrara",
+    "deadline": "1st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unife.it/"
+  },
+  {
+    "id": 188,
+    "name": "University of Rome Tre",
+    "deadline": "15th July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma3.it/"
+  },
+  {
+    "id": 189,
+    "name": "University of Siena",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unisi.it/"
+  },
+  {
+    "id": 190,
+    "name": "University of Naples Federico II",
+    "deadline": "15th August 2024",
+    "ielts_required": "NONE",
+    "language_requirement": "B2 level Italian language proficiency",
+    "url": "http://www.international.unina.it/"
+  },
+  {
+    "id": 191,
+    "name": "University of Milan-Bicocca",
+    "deadline": "1st September 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unimib.it/"
+  },
+  {
+    "id": 192,
+    "name": "University of Rome Tor Vergata",
+    "deadline": "30th June 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.uniroma2.it/"
+  },
+  {
+    "id": 193,
+    "name": "University of Padua",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipd.it/en/"
+  },
+  {
+    "id": 194,
+    "name": "University of Bologna",
+    "deadline": "1st July 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unibo.it/"
+  },
+  {
+    "id": 195,
+    "name": "University of Pisa",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unipi.it/"
+  },
+  {
+    "id": 196,
+    "name": "University of Florence",
+    "deadline": "31st August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://www.unifi.it/"
+  },
+  {
+    "id": 197,
+    "name": "University of Turin",
+    "deadline": "15th August 2024",
+    "ielts_required": "Needed",
+    "language_requirement": "NONE",
+    "url": "https://en.unito.it/"
   }
 ]
